@@ -1,1 +1,1 @@
-# cs47-assignment2
+# Cross-platform app with swipe cards feature
